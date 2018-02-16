@@ -1,8 +1,10 @@
 ## Project Title:
  Sprint0 - C5
+ 
+ ![github-logo](https://user-images.githubusercontent.com/36151401/36306164-41d3e958-131f-11e8-8bda-d829a3540427.png)
 
 ## Getting Started:
- it has a project name Testing Github which has tasks
+ it has a project name Testing Github which has tasks 
 
 ## Authors:
 
